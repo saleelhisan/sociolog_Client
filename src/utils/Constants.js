@@ -1,4 +1,6 @@
-export const baseUrl = "http://localhost:6001/";
+// export const baseUrl = "http://localhost:6001/";
+export const baseUrl = "https://saleelhisan.online/";
+
 
 
 // urls
