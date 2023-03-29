@@ -153,7 +153,7 @@ const ChatBox = () => {
                         </IconButton>
                     }
                     title={friend?.username}
-                    subheader="online"
+                    // subheader="online"
                 />
                 <Box sx={{
                     backgroundColor: "#f0f5f5",
